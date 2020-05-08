@@ -1,4 +1,4 @@
-# BriefProjet_C4_C5_C6 // Cahier des charges de gestion de congé au sein d'une entreprise
+# Brief Projet_C4_C5_C6 // Cahier des charges de gestion de congé au sein d'une entreprise
 
 ## -------------------------- Contexte et l’objectif  du projet --------------------------
 Le projet consiste à réaliser une application web qui informatise la gestion de congé dans l’objectif de faciliter la gestion de l’entreprise, faciliter les services de chaque utilisateur et améliorer les processus de cette dernière.   
@@ -30,6 +30,7 @@ Analyse et conception du projet en utilisant ```le langage de modélisation UML`
  - Le diagramme de séquence
  - Le diagramme d’activité de l’authentification
  - Le diagramme de classe 
+
 **à partir du diagramme de classe modéliser une BD en réalisant un MPD**
 
 ## --------------------------------------- WorkFlow --------------------------------------
