@@ -1,10 +1,10 @@
 # BriefProjet_C4_C5_C6 // Cahier des charges de gestion de congé au sein d'une entreprise
 
-------------Contexte et l’objectif  du projet --------------------------------------------------------------------------
+## -------------------------- Contexte et l’objectif  du projet --------------------------
     Le projet consiste à réaliser une application web qui informatise la gestion de congé dans l’objectif de faciliter la gestion de l’entreprise, faciliter les services de chaque utilisateur et améliorer les processus de cette dernière.   
         Dans ce projet il faut utiliser le php pour le backend, pour la base de données il faut utiliser le MySQL comme un système de gestion de base de données. 
 
------------ Les fonctionnalités de l’application sont : -------------------------------------------------------------------
+## -------------------------- Les fonctionnalités de l’application sont : -----------------
 1/ Une interface pour gérer les salariés (Ajout, Modification, Suppression)  avec le maximum des informations pour chaque employé (nom, prénom, CIN, tél., email, grade et service) dans la BD.
 2/ Possibilité de gérer les congés de chaque employé à condition de valider le congé par un administrateur. Les demandes sont caractérisées par : 
     - Numéro, date demande, type congé demandé, date de début, date de retour, nombre de jour et décision, 
@@ -22,7 +22,7 @@
 5/ Deux interfaces d’authentification une pour l’administrateur et l’autre pour les salariés.
 6/ Un calendrier comporte les congés accordés selon les services
 
-------------- Partie conception ----------------------------------------------------------------------------------------------
+## ------------------------------------- Partie conception --------------------------------
 Analyse et conception du projet en utilisant le langage de modélisation UML :
  - Le diagramme de cas d’utilisation
  - Le diagramme de séquence
@@ -30,14 +30,14 @@ Analyse et conception du projet en utilisant le langage de modélisation UML :
  - Le diagramme de classe 
 à partir du diagramme de classe modéliser une BD en réalisant un MPD
 
---------------WorkFlow-------------------------------------------------------------------------------------------------
+## --------------------------------------- WorkFlow ----------------------------------------
 - Initialisez votre projet comme un dépôt public sur GitHub.
 - Ajouter votre formateur comme collaborateur sur le repo.
 - Configurez votre dépôt pour publier votre code sur les pages GitHub ou Netlify.
     
---------------Modalités du travail :--------------------------------------------------------------------------------------
+## ------------------------------------- Modalités du travail ------------------------------
 Travail individuel
 
---------------Livrables :--------------------------------------------------------------------------------------------------
+## -------------------------------------- Livrables ----------------------------------------
 Site web hébergé et fonctionnel
 Repo github
