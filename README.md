@@ -44,3 +44,28 @@ Travail individuel
 ## -------------------------------------- Livrables --------------------------------------
 - Site web hébergé et fonctionnel
 - Repo github
+
+## ------------------------------------- Liens Utiles ------------------------------------
+
+# Backend
+- CodeIgniter MVC framework http://www.codeigniter.com/
+- RSA Encryption in pure PHP https://github.com/phpseclib/phpseclib
+- Excel import/export https://github.com/PHPOffice/PHPExcel
+- OAuth2 Server https://github.com/bshaffer/oauth2-server-php
+- OAuth2 Client https://github.com/thephpleague/oauth2-client
+- OAuth2 Google Provider https://github.com/thephpleague/oauth2-google
+- Sabre/VObject https://github.com/fruux/sabre-vobject
+- PHPMailer https://github.com/PHPMailer/PHPMailer
+- PHPMailer CI wrapper https://github.com/ivantcholakov/codeigniter-phpmailer
+
+# Frontend
+- bootstrap 2.3, bootbox, datepicker and FontAwesome
+- JQuery and JQuery-UI
+- FullCalendar https://fullcalendar.io/
+- Datatable https://datatables.net/
+- RSA implementation https://github.com/travist/jsencrypt
+- Moment (JS dates library) http://momentjs.com/
+- Select2 https://select2.org/
+- JavaScript Cookie https://github.com/js-cookie/js-cookie
+- clipboard.js https://github.com/zenorocha/clipboard.js
+- Google noto fonts https://www.google.com/get/noto/
